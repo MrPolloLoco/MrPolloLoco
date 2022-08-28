@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrPolloLoco
+- 👋 Hi, I’m Adrian.
 - 👀 I’m interested in all things STEM!
 - 🌱 I’m currently learning computer science. 
 - 💞️ I’m looking to collaborate on projects, so that I may further expand my knowledge in programming.
